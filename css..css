@@ -1,0 +1,500 @@
+html{width:99.9%\0/}
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/17naae10.jpg');
+	background-color: #DFDFDF;
+	font-family: tahoma;
+	font-size: 9pt;
+	font-weight: bold;
+	color: #5E5E5E;
+}
+a:link,a:visited{text-decoration: none;color: #A84557;}
+a:hover{color: #C67583;}
+a img,img{border:0px}
+ul{margin:0px;padding:0px;list-style-type:none}
+.clr {clear: both;height: 0px;}
+img{
+	-moz-transition: all 0.7s ease-in-out;
+	-webkit-transition: all 0.7s ease-in-out;
+	-o-transition: all 0.7s ease-in-out;
+	-ms-transition: all 0.7s ease-in-out;
+	transition: all 0.7s ease-in-out;
+}
+img:hover{opacity:0.6}
+#bgrd{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_27.jpg');
+	background-repeat: repeat-x;
+}
+#bgrdd{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_28.jpg');
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	width: 100%;
+}
+	.bner{
+	background-image:url('http://r00za.com/7naae/3zal_15.jpg');
+     width:458px;
+     height:65px;
+     background-repeat:no-repeat;
+     float:right;
+	margin-right: 65px;
+     margin-top:-410px;
+}
+
+
+	.bner:hover{
+	background-image:url('http://r00za.com/7naae/3zal_15.jpg');
+     width:458px;
+     height:65px;
+     background-repeat:no-repeat;
+     float:right;
+     margin-top:-410px;
+     Opacity:0.8;
+ }
+
+	.bner1{
+	background-image:url('http://r00za.com/7naae/3zal_15.jpg');
+     width:458px;
+     height:65px;
+     background-repeat:no-repeat;
+     float:right;
+	margin-right: 65px;
+     margin-top:-330px;
+}
+
+	.bner1:hover{
+	background-image:url('http://r00za.com/7naae/3zal_15.jpg');
+     width:458px;
+     height:65px;
+     background-repeat:no-repeat;
+     float:right;
+     margin-top:-330px;
+     Opacity:0.8;
+}
+#page{
+	width: 956px;
+	margin: 0px auto 0px auto;
+}
+#header{
+	background-position: right bottom;
+	position: relative;
+	height: 207px;
+	background-repeat: no-repeat;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_10.png');
+}
+#footer{
+	position: relative;
+	height: 128px;
+	background-repeat: no-repeat;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_11.png');
+	background-position: right bottom;
+}
+#box01{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_26.jpg');
+	background-color: #F7F7F7;
+}
+#box02{
+	background-repeat: repeat-x;
+	background-position: left bottom;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_25.jpg');
+}
+#box03{
+	background-repeat: repeat-y;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_24.jpg');
+}
+#box04{
+	background-repeat: repeat-y;
+	background-position: right;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_23.jpg');
+}
+#box05{
+	background-repeat: repeat-x;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_22.jpg');
+}
+#box06{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_21.jpg');
+	background-repeat: no-repeat;
+}
+#box07{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_20.jpg');
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+#box08{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_19.jpg');
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+#box09{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_18.jpg');
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	width: 100%;
+}
+#box10{
+	padding: 33px 17px 36px 17px;
+}
+#wrapp {
+	margin: 0px 12px 9px 4px
+}
+#container{
+width:100%;float:left;margin-right:-210px
+	
+}
+#content{
+margin-right:220px
+	
+}
+#rightcol{
+width:204px;float:right
+	
+}
+
+.chatbox {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_17.jpg');
+	background-repeat: repeat-y;
+	float: right;
+	margin-right: 10px;
+	width: 325px;
+}
+.chatbox2 {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_16.jpg');
+	background-repeat: no-repeat;
+}
+.chatbox3 {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_12.png');
+	background-position: left bottom;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.chatbox4 {
+	float: right;
+	margin-right:27px;
+	width: 180px;
+}
+.chatbox4 p {
+	color: #FFFFFF;
+	font-family:tahoma ;
+	font-size: 11pt;
+	font-weight: bold;
+	margin: 0px 0px 28px 0px;
+	padding: 21px 0 0 0;
+	text-shadow: 0 1px 0 #FFFFFF;
+}
+.chatbox4 p a, .chatbox4 p a:visited {
+    color:#FFFFFF;
+}
+.chatbox4 p a:hover {
+    color: #FFB8C6;
+}
+.chatbox4 div {
+}
+.chatbox5 {
+	text-align: center;
+	margin-right: 6px;
+}
+.chatbox6 {
+	float: left;
+	padding-top: 74px;
+	width: 98px;
+}
+.chatbox6 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.chatbox6 ul li {
+	float: right;
+	line-height: 18px;
+}
+.chatbox6 ul li a {
+	border-style: solid;
+	border-width: 1px 0px 1px 0px;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_15.jpg');
+	background-position: 98px top;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	display: block;
+	font-family: tahoma;
+	font-size: 9pt;
+	font-weight: normal;
+	height: 23px;
+	padding-right: 7px;
+	text-shadow: 0 1px 0 #7C2B36;
+	transition: all 0.4s ease-in-out 0s;
+	width: 91px;
+	border-top-color: #BA4D61;
+	border-bottom-color: #913143;
+}
+.chatbox6 ul li a:visited {
+    color: #FFFFFF;
+}
+.chatbox6 ul li a:hover {
+	background-position: 27px top;
+	color: #BAE6D9;
+}
+.atcht {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_14.jpg');
+	background-repeat: repeat-y;
+	float: left;
+	width: 217px;
+}
+.atcht2 {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_13.jpg');
+	background-repeat: no-repeat;
+}
+.atcht3 {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_12.jpg');
+	background-position: left bottom;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.tit03 {
+	color: #FFFFFF;
+	font-family: tahoma;
+	font-size: 9pt;
+	font-weight: bold;
+	margin: 0 0 30px 0;
+	padding: 10px 45px 0 0;
+	text-shadow: 0 1px 0 #7C7C7C;
+}
+.atcht4 {
+	padding-bottom: 15px;
+	padding-left: 18px;
+	padding-right: 18px;
+	text-align: center;
+}
+.a_org {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_11.jpg');
+	background-repeat: no-repeat;
+	bottom: 0;
+	display: block;
+	height: 41px;
+	left: 22px;
+	position: absolute;
+	width: 46px;
+}
+.a_org span {
+    display: none;
+}
+#bannbox {
+	position: absolute;
+	width: 468px;
+	left: 20px;
+	top: 65px;
+}
+#a-text {
+	background-image: url(' https://i76.servimg.com/u/f76/19/95/99/18/7naae_10.jpg');
+	background-repeat: repeat-x;
+	background-position: left 10px;
+}
+#a-text div{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_29.jpg');
+	background-repeat: no-repeat;
+	background-position: left 10px;
+}
+#a-text div div{
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_30.jpg');
+	background-repeat: no-repeat;
+	background-position: right top;
+	height: 65px;
+}
+#a-text div div span{
+	display: block;
+	font-family: tahoma;
+	font-size: 9pt;
+	font-weight: bold;
+	color: #5E5E5E;
+	line-height: 30px;
+	padding-top: 22px;
+	margin-right: 90px;
+}
+#a-text div div span a,#a-text div div span a:visited{
+	color: #A84557;
+}
+#a-text div div span a:hover{
+	color: #5E5E5E;
+}
+.fottlnk {
+	border-bottom: 1px solid #006366;
+	border-style: solid;
+	border-top: 1px solid #34AFB2;
+	border-width: 1px 0;
+	height: 33px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	border-top-color: #A54153;
+	border-bottom-color: #7C2635;
+}
+.fottlnk li {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_31.jpg');
+	background-position: right 10px;
+	background-repeat: no-repeat;
+	float: right;
+	line-height: 31px;
+	padding-right: 14px;
+	text-align: right;
+	width: 100px;
+}
+.fottlnk li a {
+    color: #FFFFFF;
+    font-family: tahoma;
+    font-size: 9pt;
+    font-weight: normal;
+}
+.fottlnk li a:visited {
+    color: white;
+}
+.fottlnk li a:hover {
+	color: #FFD903;
+}
+#socail {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_32.jpg');
+	background-repeat: no-repeat;
+	height: 39px;
+	width: 210px;
+	background-position: right top;
+	position: absolute;
+	left: 20px;
+	top: 6px;
+}
+#socail ul {margin:0px;padding:0px;list-style-type:none
+}
+#socail ul li {
+	float: left;
+	margin-right: 1px;
+}
+#socail ul li a {
+	display: block;
+	width: 38px;
+	height: 38px;
+	background-repeat: no-repeat;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_33.jpg');
+	float: left;
+}
+#socail ul li a:hover {
+	margin-top: 1px;
+	opacity:0.8
+}
+#socail ul li a#tube {
+	background-position: left top;
+}
+#socail ul li a#twtt {
+	background-position: -39px top;
+}
+#socail ul li a#fb {
+	background-position: -78px top;
+}
+
+#headlinks {
+	margin: 0px;
+	padding: 6px 0px 0px 0px;
+	list-style-type: none;
+	width: 600px;
+	float: right;
+}
+#headlinks li {
+	float: right;
+	line-height: 34px;
+	text-align: center;
+}
+#headlinks li a {
+	background-position: left -36px;
+	border-radius: 4px;
+	display: block;
+	height: 36px;
+	width: 90px;
+	padding-right: 10px;
+	background-image: url(' https://i76.servimg.com/u/f76/19/95/99/18/7naae_34.jpg');
+	background-repeat: repeat-x;
+	color:white;
+	text-shadow:0px 1px 0px #7D7D7D
+}
+#headlinks li a span {
+	background-position: right center;
+	display: block;
+	height: 36px;
+	background-repeat: no-repeat;
+	padding-right: 16px;
+	width: 74px;
+}
+#headlinks li a:visited {color:white;}
+#headlinks li a:hover {border-radius: 0px 0px 4px 4px;background-position: left top;}
+#headlinks li a#i {}
+#headlinks li a#ii {width: 140px;}
+#headlinks li a#iii {}
+#headlinks li a#i span {background-image: url(' https://i76.servimg.com/u/f76/19/95/99/18/7naae_13.png');}
+#headlinks li a#ii span {background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_14.png');width: 124px;}
+#headlinks li a#iii span {background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_15.png');}
+
+#menu {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_35.jpg');
+	background-repeat: repeat-y;
+	width: 203px;
+	background-position: 7px top;
+}
+#menu div {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_16.png');
+	background-repeat: no-repeat;
+}
+#menu div div {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_17.png');
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	width: 100%;
+}
+#menu div div div {
+	margin: 0px auto 0px auto;
+	padding: 66px 0px 52px 0px;
+	width: 150px;
+	background-image: none;
+}
+#menu div div div ul {
+}
+#menu div div div ul li {
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_38.jpg');
+	float: right;
+	line-height: 24px;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 3px;
+}
+#menu div div div ul li a {
+	background-image: url('https://i76.servimg.com/u/f76/19/95/99/18/7naae_39.jpg');
+	background-repeat: no-repeat;
+	width: 137px;
+	height: 26px;
+	display: block;
+	padding-right: 12px;
+	color: #7D7D7D;
+	text-shadow:0px 1px 0px #fff
+}
+#menu div div div ul li a:visited {color: #7D7D7D;
+}
+#menu div div div ul li a:hover {color: #FFF;text-shadow:0px 1px 0px #8B3243
+}
+#menu div div div ul li a.ico-1 {background-position:-149px top}
+#menu div div div ul li a.ico-2 {background-position:-149px -26px}
+#menu div div div ul li a.ico-3 {background-position:-149px -52px}
+#menu div div div ul li a.ico-4 {background-position:-149px -78px}
+#menu div div div ul li a.ico-5 {background-position:-149px -104px}
+#menu div div div ul li a.ico-6 {background-position:-149px -130px}
+#menu div div div ul li a.ico-7 {background-position:-149px -156px}
+#menu div div div ul li a.ico-8 {background-position:-149px -182px}
+#menu div div div ul li a.ico-9 {background-position:-149px -208px}
+#menu div div div ul li a.ico-10 {background-position:-149px -234px}
+#menu div div div ul li a.ico-1:hover {background-position:left top}
+#menu div div div ul li a.ico-2:hover {background-position:left -26px}
+#menu div div div ul li a.ico-3:hover {background-position:left -52px}
+#menu div div div ul li a.ico-4:hover {background-position:left -78px}
+#menu div div div ul li a.ico-5:hover {background-position:left -104px}
+#menu div div div ul li a.ico-6:hover {background-position:left -130px}
+#menu div div div ul li a.ico-7:hover {background-position:left -156px}
+#menu div div div ul li a.ico-8:hover {background-position:left -182px}
+#menu div div div ul li a.ico-9:hover {background-position:left -208px}
+#menu div div div ul li a.ico-10:hover {background-position:left -234px}

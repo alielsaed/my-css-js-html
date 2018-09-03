@@ -1,0 +1,1021 @@
+*/
+body
+{
+	color: #898989;
+	font: 10pt tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	
+}
+a:link, body_alink
+{
+	color: #898989;
+	text-decoration: none;
+}
+a:visited, body_avisited
+{
+	color: #898989;
+	text-decoration: none;
+}
+a:hover, a:active, body_ahover
+{
+	color: #af723e;
+}
+.page
+{
+	color: #898989;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	 
+}
+.page a:link, .page_alink
+{
+	color: #898989;
+	text-decoration: none;
+}
+.page a:visited, .page_avisited
+{
+	color: #898989;
+	text-decoration: none;
+}
+.page a:hover, .page a:active, .page_ahover
+{
+	color: #af723e;
+}
+td, th, p, li
+{
+	font: 9pt tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.tborder
+{
+	background: #fff;
+	color: #1a1a1a;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	 
+}
+.tcat
+{
+	background: #857596  url(http://demo.lamsat4host.com/eraqy/images/grey-up.png) repeat-x;
+	color: #fff;
+	font: bold 10pt tahoma,verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	text-shadow: 0px 1px 0px #000;
+	  
+}
+.tcat a:link, .tcat_alink
+{
+	color: #fff;
+	text-decoration: none;
+}
+.tcat a:visited, .tcat_avisited
+{
+	color: #fff;
+	text-decoration: none;
+}
+.tcat a:hover, .tcat a:active, .tcat_ahover
+{
+	color: #CCCCCC;
+	text-decoration: underline;
+}
+.thead
+{
+	background: #ae7aa1 url(http://demo.lamsat4host.com/eraqy/images/grey-up.png) repeat-x;
+	color: #fff;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	text-shadow: 0px 1px 0px #000;
+	 
+}
+.thead a:link, .thead_alink
+{
+	color: #fff;
+	text-decoration: none;
+}
+.thead a:visited, .thead_avisited
+{
+	color: #fff;
+	text-decoration: none;
+}
+.thead a:hover, .thead a:active, .thead_ahover
+{
+	color: #CCCCCC;
+}
+.tfoot
+{
+	background: #857596 url(http://demo.lamsat4host.com/eraqy/images/grey-up.png) repeat-x;
+	color: #fff;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	 
+}
+.tfoot a:link, .tfoot_alink
+{
+	color: #fff;
+	text-decoration: none;
+}
+.tfoot a:visited, .tfoot_avisited
+{
+	color: #fff;
+	text-decoration: none;
+}
+.tfoot a:hover, .tfoot a:active, .tfoot_ahover
+{
+	color: #fff;
+}
+.alt1, .alt1Active
+{
+	color: #ca5daf;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	background-image: -o-linear-gradient(bottom, #FCF3FA 0%, #F4E0EF 100%);
+	background-image: -moz-linear-gradient(bottom, #FCF3FA 0%, #F4E0EF 100%);
+	background-image: -webkit-linear-gradient(bottom, #FCF3FA 0%, #F4E0EF 100%);
+	background-image: -ms-linear-gradient(bottom, #FCF3FA 0%, #F4E0EF 100%);
+	background-image: linear-gradient(to bottom, #FCF3FA 0%, #F4E0EF 100%);
+}
+.alt1 a:link, .alt1_alink, .alt1Active a:link, .alt1Active_alink
+{
+	color: #865379;
+	text-decoration: none;
+}
+.alt1 a:visited, .alt1_avisited, .alt1Active a:visited, .alt1Active_avisited
+{
+	color: #865379;
+	text-decoration: none;
+}
+.alt1 a:hover, .alt1 a:active, .alt1_ahover, .alt1Active a:hover, .alt1Active a:active, .alt1Active_ahover
+{
+	color: #4f2444;
+}
+.alt2, .alt2Active
+{
+	color: #ca5daf;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	background-image: -o-linear-gradient(bottom, #FCF3FA 0%, #F4E0EF 100%);
+	background-image: -moz-linear-gradient(bottom, #FCF3FA 0%, #F4E0EF 100%);
+	background-image: -webkit-linear-gradient(bottom, #FCF3FA 0%, #F4E0EF 100%);
+	background-image: -ms-linear-gradient(bottom, #FCF3FA 0%, #F4E0EF 100%);
+	background-image: linear-gradient(to bottom, #FCF3FA 0%, #F4E0EF 100%);
+}
+.alt2 a:link, .alt2_alink, .alt2Active a:link, .alt2Active_alink
+{
+	color: #865379;
+	text-decoration: none;
+}
+.alt2 a:visited, .alt2_avisited, .alt2Active a:visited, .alt2Active_avisited
+{
+	color: #865379;
+	text-decoration: none;
+}
+.alt2 a:hover, .alt2 a:active, .alt2_ahover, .alt2Active a:hover, .alt2Active a:active, .alt2Active_ahover
+{
+	color: #4f2444;
+}
+.inlinemod
+{
+	background: #FFFFCC;
+	color: #000000;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.wysiwyg
+{
+	background: #F5F5FF;
+	color: #000000;
+	font: 10pt tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	margin: 5px 10px 10px 10px;
+	padding: 0px;
+}
+.wysiwyg a:link, .wysiwyg_alink
+{
+	color: #1a1a1a;
+}
+.wysiwyg a:visited, .wysiwyg_avisited
+{
+	color: #1a1a1a;
+}
+.wysiwyg a:hover, .wysiwyg a:active, .wysiwyg_ahover
+{
+	color: #787878;
+}
+textarea, .bginput
+{
+	font: 10pt tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.bginput option, .bginput optgroup
+{
+	font-size: 10pt;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.button
+{
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+select
+{
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+option, optgroup
+{
+	font-size: 11px;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.smallfont
+{
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.time
+{
+	color: #747474;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.navbar
+{
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.highlight
+{
+	color: #FF0000;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	font-weight: bold;
+}
+.fjsel
+{
+	background: #3E5C92;
+	color: #E0E0F6;
+}
+.fjdpth0
+{
+	background: #F7F7F7;
+	color: #000000;
+}
+.panel
+{
+	background: #fff;
+	color: #bcbcbc;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 10px;
+	border: 2px outset;
+}
+.panelsurround
+{
+	background: #fff;
+	color: #bcbcbc;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+legend
+{
+	color: #22229C;
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+}
+.vbmenu_control
+{
+	background: #857596 url(http://demo.lamsat4host.com/eraqy/images/grey-up.png) repeat-x;
+	color: #fff;
+	font: bold 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	padding: 3px 6px 3px 6px;
+	white-space: nowrap;
+	 
+}
+.vbmenu_control a:link, .vbmenu_control_alink
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_control a:visited, .vbmenu_control_avisited
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_control a:hover, .vbmenu_control a:active, .vbmenu_control_ahover
+{
+	color: #fff;
+	text-decoration: underline;
+}
+.vbmenu_popup
+{
+	background: #857596 url(http://demo.lamsat4host.com/eraqy/images/grey-up.png) repeat-x;
+	color: #000000;
+	font-family: tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	 
+}
+.vbmenu_option
+{
+	background: #857596  url(http://demo.lamsat4host.com/eraqy/images/grey-up.png) repeat-x;
+	color: #fff;
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_option a:link, .vbmenu_option_alink
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_option a:visited, .vbmenu_option_avisited
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_option a:hover, .vbmenu_option a:active, .vbmenu_option_ahover
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_hilite
+{
+	background: #ae7aa1 url(http://demo.lamsat4host.com/eraqy/images/grey-up.png) repeat-x;
+	color: #fff;
+	font: 11px tahoma, verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	white-space: nowrap;
+	cursor: pointer;
+}
+.vbmenu_hilite a:link, .vbmenu_hilite_alink
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_hilite a:visited, .vbmenu_hilite_avisited
+{
+	color: #fff;
+	text-decoration: none;
+}
+.vbmenu_hilite a:hover, .vbmenu_hilite a:active, .vbmenu_hilite_ahover
+{
+	color: #fff;
+	text-decoration: none;
+}
+.page {
+overflow: hidden;
+}
+
+
+.header-r {
+float: right;
+width: 49%;
+}
+.header-l {
+float: left;
+width: 450px;
+}
+
+img{
+	border:0px;
+}
+
+
+
+.infobox2 a, .infobox2 a:visited {
+color: white;
+font-weight: bold;
+text-shadow: 1px 0px rgba(0, 0, 0, 0.63);
+}
+
+.button {
+	font: 11px tahoma, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif;
+	background: rgb(109, 109, 109);
+	color: #FFF;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5);
+	font: bold 15pt Tahoma, Geneva, sans-serif;
+	text-align: center !important;
+	padding: 7px 10px !important;
+	border: none !important;
+	border-radius: 3px !important;
+	-webkit-border-radius: 3px !important;
+	-moz-border-radius: 3px !important;
+}
+select {
+	color: #3c3c3c;
+	text-shadow: none !important;
+	background: #f4f4f4;
+	color: #3c3c3c;
+	border: 1px #e9e9e9 solid;
+	text-shadow: 0 1px 0 #FFF;
+	font: bold 15pt Tahoma, Geneva, sans-serif;
+	padding: 7px 10px;
+	border-radius: 3px !important;
+	-webkit-border-radius: 3px !important;
+	-moz-border-radius: 3px !important;
+}
+
+
+.infobox2 a:hover, .infobox2 a:visited:hover {
+color: red;
+}
+
+ 
+ .usrname1, .passwd1 {
+position: absolute;
+background-color: transparent;
+border: 0px;
+font-family: he2;
+color: rgb(75, 74, 74);
+outline: none;
+text-shadow: 0px 1px 0px rgb(255, 255, 255);
+font-size: 13px !important;
+font-weight: normal;
+}
+
+.passwd1 {
+top: 4px;
+cursor: pointer;
+right: 182px;
+width: 104px;
+}
+
+
+.chkbox2 {
+position: absolute;
+right: 293px;
+color: #fff;
+font-size: 11px;
+margin-top: 8px;
+}
+
+input#cb_cookieuser_navbar {
+}
+
+
+.buttonx2 {
+border: 0px;
+width: 73px;
+height: 31px;
+position: absolute;
+top: 0px;
+right: 360px;
+cursor: pointer;
+text-indent: -999px;
+background: transparent;
+}
+
+.loginbox {
+width: 433px;
+height: 35px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/login.png);
+margin-top: 58px;
+float: left;
+}
+
+
+
+.usrname1 {
+top: 4px;
+cursor: pointer;
+right: 30px;
+width: 105px;
+}
+
+ 
+ 
+.infobox2 {
+width: 254px;
+height: 42px;
+position: absolute;
+left: 0px;
+top: 350px;
+}
+
+
+.infobox2 .smallfont, .infobox2 .time {
+color: #5E5858;
+text-shadow: 0px 1px 0px transparent;
+text-align: center;
+}
+ 
+
+
+
+p.fm-title {
+float: right;
+font-family: he2;
+color: #fff;
+font-size: 16px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/ic4.png);
+background-position: right;
+background-repeat: no-repeat;
+padding-right: 30px;
+margin-right: 13px;
+text-shadow: 1px 0px #854a75;
+}
+
+.fm-title a {
+float: right;
+font-family: he2;
+color: #fff !important;
+font-size: 16px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/ic4.png);
+background-position: right;
+background-repeat: no-repeat;
+padding-right: 30px;
+margin-right: 13px;
+display: block;
+text-shadow: 1px 0px #854a75;
+}
+
+.fm-title {
+float: right;
+margin-top: 15px;
+}
+
+
+.clear {
+	clear:both;
+}
+td.smallfont img {
+border-radius: 12px;
+}
+.block3 {
+float: left;
+height: 69px;
+width: 150px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/small.png);
+margin-top: -20px;
+margin-left: 10px;
+}
+body{
+	margin:0;
+	padding:0;
+	outline:0;
+	direction:rtl;
+	background-image:url('http://demo.lamsat4host.com/eraqy/images/body.jpg');background-repeat:repeat;
+}
+
+.header-bg{
+	background-image:url('http://demo.lamsat4host.com/eraqy/images/header.jpg');
+	height:404px;
+	background-repeat:repeat-x;
+}
+.footer-bg{
+	background-image:url('http://demo.lamsat4host.com/eraqy/images/footer.jpg');
+	height:353px;
+	background-repeat:repeat-x;
+}
+
+
+.header{
+	margin:auto;
+	width:96%;position: relative;
+}
+
+.footer{
+	margin:auto;
+	width:96%;
+}
+
+.header-menut {
+float: right;
+margin-top: 11px;
+width: 600px;
+}
+.header-menut ul li {
+display: inline;
+float: right;
+position: relative;width: 100px;
+text-align: center;
+
+}
+.header-menut ul li a {
+color: #cdd6e2;
+text-decoration: none;
+font-size: 13px;
+font-family: he1;
+font-weight: normal;
+display: block;
+height: 33px;
+line-height: 32px;
+border-radius: 5px;
+border: transparent 1px solid;
+text-shadow: 1px 0px #854a75; width: 100px; 
+}
+.header-menut ul li a:hover {
+color: #6b5b7e;
+background: #cdd7e3;
+border: solid 1px #763867;
+text-shadow: none;
+}
+.header-menut ul li ul {
+padding: 0;
+position: absolute;
+display: none;
+width: 160px;
+background: #F7F7F7;
+height: auto;
+border-radius: 5px 0px 5px 5px;
+padding-bottom: 5px;
+border: solid 1px #C9C9C9;
+right: 0px;
+}
+
+.header-menut ul li ul li a:hover {
+border: none;
+background: #763867;
+color: #fff;
+}
+
+.header-menut ul li:hover ul {
+	display: block;
+}
+.header-menut ul li ul li {
+	margin-top: 4px;
+	margin-right: 5px;
+	clear: both;
+	line-height: 30px;
+	text-align: center;
+	width: 150px;
+	overflow: hidden;
+	background: #857596;
+	height: 24px;
+	border-radius: 5px;
+}
+.header-menut ul li ul li a {
+	color: #fff;width: 100%;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+
+
+.social {
+float: left;
+margin-top: 15px;
+height: 27px;
+margin-left: 0px;
+}
+
+.social ul {
+padding: 0;
+margin: 0;
+list-style: none;
+float: left;
+width: 160px;
+}
+
+
+
+
+.social ul li {
+	float: right;
+	width: 27px;
+	height: 27px;
+	margin-right: 3px;
+}
+.social ul li a {
+	float: right;
+	width: 27px;
+	height: 27px;
+	transition: none;
+-moz-transition: none;
+-ms-transition: none;
+-o-transition: none;
+-webkit-transition: none;
+}
+.social .facebook {
+	background:url('http://demo.lamsat4host.com/eraqy/images/social.png') 0px 0px;
+}
+.social .rss {
+	background:url('http://demo.lamsat4host.com/eraqy/images/social.png') 58px 0px;
+}
+.social .youtube {
+	background:url('http://demo.lamsat4host.com/eraqy/images/social.png') 28px 0px;
+}
+.social .twitter {
+	background:url('http://demo.lamsat4host.com/eraqy/images/social.png') -31px 0px
+}
+.social .gplus {
+	background:url('http://demo.lamsat4host.com/eraqy/images/social.png') -62px 0px
+}
+
+.logo1 {
+float: right;
+height: 281px;
+width: 488px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/logo1.png);
+margin-top: 17px;
+}
+.login {
+width: 433px;
+height: 35px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/login.png);
+margin-top: 11px;
+float: left;
+}
+a.banner {
+float: left;
+margin-top: 20px;
+height: 85px;
+width: 447px;
+}
+a.banner:hover {
+opacity: 0.8;
+}
+
+a.banner img {
+height: 85px;
+width: 447px;
+}
+
+.mrmr {
+margin-top: 65px!important;
+}
+
+.regtext {
+float: right;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/ic1.png);
+background-position: right;
+background-repeat: no-repeat;
+margin-top: 14px;
+padding-right: 21px;
+color: #fff;
+font-family: he2;
+font-weight: normal;
+font-size: 17px;
+text-shadow: 1px 0px #854a75;
+}
+
+a.regbut {
+float: right;
+width: 100px;
+height: 32px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/reg.png);
+margin-right: 10px;
+margin-top: 11px;
+}
+a.regbut:hover {
+opacity: 0.9;
+}
+.logo2 {
+height: 204px;
+width: 334px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/logo2.png);
+float: left;
+}.fottot {
+float: right;
+width: 280px;
+margin-top: 31px;
+color: #ced7e3;
+text-shadow: 1px 0px #854a75;
+font-family: he1;
+font-size: 17px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/ic5.png);
+background-repeat: no-repeat;
+background-position: right 10px;
+padding-right: 17px;
+}
+
+
+.footer-menu {
+float: right;
+width: 140px;
+margin-left: 10px;
+height: 210px;
+margin-top: 20px;
+}
+
+.footer-menu ul li {
+float: right;
+width: 100%;
+margin-bottom: 15px;
+}
+
+
+.footer-menu ul li a:hover{
+margin-right:10px;
+	
+}
+
+.footer-menu ul li a {
+float: right;
+width: 100%;
+font-weight: normal;
+color: #fff;
+font-family: Tahoma;
+font-size: 17px;
+}
+
+.cop {
+margin-top: 21px;
+color: #ced7e3;
+text-shadow: 1px 0px #854a75;
+font-family: he1;
+float: right;
+}
+
+
+a.lamsat {
+float: left;
+height: 42px;
+width: 127px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/lamsat.png);
+margin-top: 11px;
+}
+
+
+
+
+#unitip {
+	position: absolute;
+	z-index: 999;
+	top: -1000px;
+	color: #fff;
+	display: none;
+	text-align: center;
+	font-family:tahoma;
+	font-weight:lighter;padding-bottom: 4px;
+}
+#unitipcap {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: auto;
+	display: block;
+}
+#unitipmid {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: auto;
+	display: block;
+}
+#unitippoint {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: auto;
+	display: block;
+}
+#unitippoint {
+	height: 10px;
+	overflow: hidden;
+}
+#unitipmid {
+	background:#000;
+	max-width:200px;
+	height: auto;
+	padding: 3px 10px;
+	border-radius:5px
+}
+#unitipcap {
+	overflow: hidden;
+}
+
+.block1 {
+height: 62px;
+background-image: url(http://demo.lamsat4host.com/eraqy/images/header.jpg);
+margin-top: 10px;
+}
+.block6 {
+background: #fff;
+padding: 5px;
+border-radius: 0px 0px 5px 5px;
+border: solid 1px #E0E0E0;
+}
+@font-face {
+    font-family: 'he1';
+    src:  url('eraqy/fonts/HelveticaNeueW23-Bd.woff') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'he2';
+    src:  url('eraqy/fonts/HelveticaNeueW23-Reg.woff') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+ a {
+	text-decoration: none;
+	-webkit-transition: all ease-in-out 0.2s;
+	-moz-transition: all ease-in-out 0.2s;
+	-o-transition: all ease-in-out 0.2s;
+	transition: all ease-in-out 0.2s;
+ }
+ins {
+	text-decoration:underline;
+}
+del {
+	text-decoration: line-through;
+}
+h1, h2, h3, h4, h5, h6, p, blockquote, ul, ol, il, a, input {
+	direction:rtl;
+}
+ul, ol, dl {
+	list-style-position:inside;
+ 	list-style:none;	margin:0;
+	padding:0;
+}
+
+/************  start - Postbit_Userinfo   **************/
+
+.postbit_info {
+background-color: #F3FBFE;
+color: #46535c;
+font: regular 11px 'Droid Arabic Kufi';
+font-size: 11px;
+letter-spacing: 0;
+margin: 0 0 3px;
+padding: 4px 5px;
+font-family: 'Droid Arabic Kufi';
+border-top: none;
+border-bottom:none;
+border-right: 3px solid #279ff5;
+border-left:  3px solid #279ff5;
+-moz-border-radius:6px;-webkit-border-radius:11px;border-radius:6px;
+}
+.postbit_info:hover {
+background-color: #FCFEFF;
+color: #46535c;
+font: regular 11px 'Droid Arabic Kufi';
+font-size: 11px;
+letter-spacing: 0;
+margin: 0 0 3px;
+padding: 4px 5px;
+font-family: 'Droid Arabic Kufi';
+border-top: none;
+border-bottom:none;
+border-right: 3px solid #f5bd27;
+border-left:  3px solid #f5bd27;
+-moz-border-radius:6px;-webkit-border-radius:11px;border-radius:6px;
+}
+/* Signature Postbit & Postbit_legacy  */
+.postbit_sig {
+background-color:rgb(243, 251, 254);
+border-top:1px solid rgb(197, 222, 228);
+border-bottom: 1px solid rgb(197, 222, 228);
+border-left: 1px solid rgb(39, 159, 245);
+border-right: 1px solid rgb(39, 159, 245);
+border-radius:6px;
+-moz-border-radius:8px;-webkit-border-radius:8px;
+}
+.postbit_sig:hover {
+background-color:#FFF4EC;
+border-top:1px solid #FFE1CA;
+border-bottom: 1px solid #FFE1CA;
+border-left: 1px solid #f5bd27;
+border-right: 1px solid #f5bd27;
+border-radius:10px;
+-moz-border-radius:8x;-webkit-border-radius:8px;
+}
+/* End - Postbit_Userinfo     */ 
+
+.postbit-mini-box {
+background:#F3FBFE;
+	border:1px;
+	border-color:#C5DEE4;
+	border-style:solid;
+    border-left:1px;
+    border-left-color:#C5DEE4;
+    border-left-style:solid;
+	border-bottom:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#C5DEE4;
+	color:#333;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:15px;
+	padding:5px 5px 5px 5px;
+	margin-top:2px;
+	}
+.myavatar:hover { 
+ transition: all 3s ease; 
+-webkit-transition: all 3s ease; 
+-moz-transition: all 3s ease; transform:rotate(360deg); 
+-moz-transform:rotate(360deg); 
+-webkit-transform:rotate(360deg); position:relative;
+}
+.postbit-box {
+background-color: #F3FBFE;
+	border:1px;
+	border-color:#C5DEE4;
+	border-style:solid;
+    border-left:1px;
+    border-left-color:#C5DEE4;
+    border-left-style:solid;
+	border-bottom:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#C5DEE4;
+	color:#333;
+	font-family:'Droid Arabic Kufi';
+	font-size:11px;
+	padding:5px 5px 5px 5px;
+	margin-top:2px;
+border-right: 1px solid #279ff5;
+border-left:  1px solid #279ff5;
+-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;
+	}
+	.postbit-box:hover {
+    background-color: #FCFEFF;
+	border:1px;
+	border-color:#D4D4D4;
+	border-style:solid;
+    border-left:1px;
+    border-left-color:#D4D4D4;
+    border-left-style:solid;
+	border-bottom:1px;
+	border-bottom-style:solid;
+	border-bottom-color:#D4D4D4;
+	color:#333;
+	font-family:'Droid Arabic Kufi';
+	font-size:11px;
+	padding:5px 5px 5px 5px;
+	margin-top:2px;
+	border-right: 1px solid #f5bd27;
+border-left:  1px solid #f5bd27;
+-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;
+	}
+.qoute
+{
+-webkit-border-radius: 5px;
+border-radius: 5px; 
+}
